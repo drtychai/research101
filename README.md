@@ -3,8 +3,8 @@ A.K.A. _1337SEARCH_
 
 ## Table of Contents
 - [Who is Research For?](#who-is-research-for) 
-- [Characteristics of the Ideal Research Topic](#characteristics-of-the-ideal-research-topic) <sup>[1](asdf)</sup>
-- [How Do I Find Research Ideas?](#how-do-i-find-research-ideas)[^1] 
+- [Characteristics of the Ideal Research Topic](#characteristics-of-the-ideal-research-topic) <sup>[&dagger;][ft1]</sup>
+- [How Do I Find Research Ideas?](#how-do-i-find-research-ideas) <sup>[&dagger;][ft1]</sup>
   - [Active Learning](#active-learning)
     - [Research Power Hour](#research-power-hour)
     - [Remaining Active](#remaining-active)
@@ -12,15 +12,13 @@ A.K.A. _1337SEARCH_
   - [Exposing Yourself to Research](#exposing-yourself-to-research)
   - [Developing the Germ of an Idea](#developing-the-germ-of-an-idea)
 - [The "Project"](#the-project) 
-- [note](/#fn:1)
 
- "These sections take a more academic approach to research; needless to say, it
-   presumes significant dedication in both time and interest."
-
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote. 
+[ft1]: /#----these-sections-take-a-more-academic-approach-to-research-needless-to-say--it-presumes-significant-dedication-in-both-time-and-interest
+<h6>
+  <sup>&dagger;</sup>
+  These sections take a more academic approach to research; needless to say,
+  it presumes significant dedication in both time and interest.
+</h6>
 
 ## Who is Research For?
 **EVERYONE!** No...seriously..._everyone can do it_
