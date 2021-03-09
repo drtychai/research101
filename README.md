@@ -1,6 +1,14 @@
 # Advice for New Researcher
 A.K.A. _1337SEARCH_
 
+> Feynman was once asked by a Caltech faculty member to explain why spin 1/2 particles obey
+Fermi-Dirac statistics. He gauged his audience perfectly and said, "I’ll prepare a
+freshman lecture on it." But a few days later he returned and said, "You know, I couldn’t
+do it. I couldn’t reduce it to the freshman level. That means we really don’t understand it."
+
+Trying to explain idea(s) to those less familiar provides an effective litmus test on a researcher's
+understanding of the subject and the present depth of knowledge.
+
 ## Table of Contents
 - [Who is Research For?](#who-is-research-for) 
 - [Characteristics of the Ideal Research Topic](#characteristics-of-the-ideal-research-topic) <sup>[&dagger;][ft1]</sup>
@@ -20,6 +28,12 @@ A.K.A. _1337SEARCH_
   it presumes significant dedication in both time and interest.
 </h6>
 
+## Additions to include
+- [ ] Expand upon scoping and the transition between _research research research_ and _do the work_ (touch upon the time-estimations)
+- [ ] Detail more info, specific to CS Security; papers are great for cypto and novel stuff, but knowing how to e.g., scrape github repos for closed-source
+  info or leverage targeted web searches, would greatly ease the transition for those unfamiliar - you won't find the RE'd M1 architecture on arxiv...
+
+
 ## Who is Research For?
 **EVERYONE!** No...seriously..._everyone can do it_
 
@@ -32,6 +46,20 @@ A.K.A. _1337SEARCH_
   - I want to do course X, but it [_costs too must_ | _isn't being offered_ | _moves too fast_ | _would be more benificial from self-direction_ | _etc._]
   - I see gap Y in field A, I think I can [_fill it_ | _contribute to it_ | _learn why it is a gap_ | _learn how to teach others about the gap_ | _etc._]
   - I want to pwn this thing, but need/want [_dedicated time_ | _a pwnpartner_ | _hardware-software resources_ | _etc._]
+
+### Novel vs Applied
+_TODO: Expand on the dichotomoy of Novel v. Applied Research_
+
+- Both are _proper_ research
+- Novel research perspectives often rely more on cutting edge journals and publications
+- Applied research perspectives may rely on cutting edge publications, but often
+  involves more active work by the research in both experimentation and investigation 
+
+### Collaboration
+_TODO: Expand on collaboration in security._
+
+- value of individual work
+- value of collab/group work
 
 ## Characteristics of the Ideal Research Topic
 The characteristics of an ideal topic are, to some extent, incompatible:
