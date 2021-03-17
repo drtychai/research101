@@ -1,4 +1,4 @@
-# Advice for New Researcher
+# Advice for New Researchers
 A.K.A. _1337SEARCH_
 
 > Feynman was once asked by a Caltech faculty member to explain why spin 1/2 particles obey
